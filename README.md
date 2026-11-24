@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/4f7b559b-2f81-408e-bb27-959704f4826f" /># JavaScript Image Gallery
+# JavaScript Image Gallery
 
 ##  Project Overview
 
@@ -67,6 +67,7 @@ JavaScript – Coursera
 <img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/71e80850-e522-4d61-b30f-b7c3f328bd1c" />
 
 
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/4f7b559b-2f81-408e-bb27-959704f4826f" />
 ---
 
 ⭐ If you find this project useful, feel free to explore the code!
